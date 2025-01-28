@@ -1,3 +1,3 @@
-# otp_sms_retriever
+# OTP Code Auto Fill
 
 A new Flutter project.
